@@ -4,3 +4,6 @@
 [submodule "adult"]
 	path = adult
 	url = https://github.com/9sumit9/datasets.git
+[submodule "dataset"]
+	path = dataset
+	url = https://github.com/9sumit9/dataset.git
